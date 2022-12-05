@@ -12,4 +12,4 @@ The input data is in 'data' and the resulting combined csv. is in 'data'
 Rscript src/make-plot.R
 ```
 
-The input data is in `data` and the resulting figures and session info in `out`.
+The input data is in `data` and the resulting figure and session info in `out`.

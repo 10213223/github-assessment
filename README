@@ -1,0 +1,15 @@
+This repository contains an analysis of weather in oxford and melbourne.
+
+To run this analysis use the following commands:
+
+```
+Rscript src/combine-data.R
+```
+The input data is in 'data' and the resulting combined csv. is in 'data'
+
+
+```
+Rscript src/make-plot.R
+```
+
+The input data is in `data` and the resulting figures and session info in `out`.
